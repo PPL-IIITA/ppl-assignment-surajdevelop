@@ -1,0 +1,90 @@
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo0--GirlNo1
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo1--GirlNo7
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo2--GirlNo31
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo3--GirlNo8
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo4--GirlNo3
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo6--GirlNo38
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo7--GirlNo14
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo9--GirlNo13
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo10--GirlNo6
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo11--GirlNo10
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo12--GirlNo15
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo13--GirlNo69
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo14--GirlNo20
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo15--GirlNo25
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo16--GirlNo37
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo17--GirlNo39
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo19--GirlNo42
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo20--GirlNo18
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo21--GirlNo24
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo22--GirlNo43
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo23--GirlNo45
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo24--GirlNo46
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo25--GirlNo53
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo26--GirlNo63
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo27--GirlNo16
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo30--GirlNo61
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo32--GirlNo21
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo33--GirlNo4
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo34--GirlNo44
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo36--GirlNo64
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo38--GirlNo19
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo39--GirlNo41
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo42--GirlNo11
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo50--GirlNo26
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo52--GirlNo28
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo53--GirlNo33
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo55--GirlNo29
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo56--GirlNo52
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo57--GirlNo12
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo58--GirlNo50
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo60--GirlNo49
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo61--GirlNo55
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo65--GirlNo22
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo73--GirlNo62
+Feb 27, 2017 6:17:01 AM ppl.compatible checkcompatible
+INFO: BoyNo76--GirlNo67
